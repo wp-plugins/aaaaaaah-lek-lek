@@ -1,25 +1,25 @@
-=== Plugin Name ===
+=== Lek Lek ===
 Contributors: valeriosza
 Donate link: http://valeriosouza.com.br
 Tags: frases, leklek
 Requires at least: 3.9.1
 Tested up to: 3.9
-Stable tag: 4.3
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Coloque o LekLek em seu WordPress fácilmente
+Coloque o LekLek em seu WordPress facilmente
 
 == Description ==
 
-Coloque a frase da música LekLek em seu WordPress, dentro do painel administrativo.
+Coloque a frase da musica LekLek em seu WordPress, dentro do painel administrativo.
 
 == Installation ==
 
 Siga para Instalar
 
 1. Faça Upload `aaaaaaah-lek-lek` para a pasta `/wp-content/plugins/`
-2. Ative no menu 'Plugins' no seu WordPress
+1. Ative no menu 'Plugins' no seu WordPress
 
 
 == Frequently Asked Questions ==
@@ -36,7 +36,7 @@ Siga para Instalar
 == Changelog ==
 
 = 1.0 =
-* Lançada Versão 1.
+* Lancada Versão 1.
 
 == Upgrade Notice ==
 
